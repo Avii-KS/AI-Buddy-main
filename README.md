@@ -8,8 +8,8 @@
 
 An ML-powered intelligent tutoring system that adapts to students' age, language, and learning style with natural Hinglish support and cultural intelligence.
 
-![System Architecture](<images/Prompt%20Engine(1).png>) ![System Architecture](<images/Prompt%20Engine%20(2).png>)
-
+![System Architecture](<images/Prompt%20Engine%20(1).png>)
+![System Architecture](<images/Prompt%20Engine%20(2).png>)
 ![System Architecture](images/Admin%20Dashboard.png)
 
 ---
