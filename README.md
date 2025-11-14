@@ -8,9 +8,9 @@
 
 An ML-powered intelligent tutoring system that adapts to students' age, language, and learning style with natural Hinglish support and cultural intelligence.
 
-![System Architecture](<images/Prompt%20Engine%20(1).png>)
-![System Architecture](<images/Prompt%20Engine%20(2).png>)
-![System Architecture](images/Admin%20Dashboard.png)
+![Prompt Engine 1](images/prompt-engine-1.png)
+![Prompt Engine 2](images/prompt-engine-2.png)
+![Admin Dashboard](images/admin-dashboard.png)
 
 ---
 
@@ -89,7 +89,7 @@ Student Query → ML Classifier → Prompt Engine → LLM → Response Formattin
    - Feedback collection
    - Analytics aggregation
 
-   ![System Architecture](Images\System%20Architecture.png)
+   ![System Architecture](images/system-architecture.png)
 
 ---
 
